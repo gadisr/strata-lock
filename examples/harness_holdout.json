@@ -1,0 +1,10 @@
+{
+  "holdout_standard": {
+    "ids": ["episode_h001", "episode_h002", "episode_h003"],
+    "description": "Standard difficulty holdout"
+  },
+  "holdout_adversarial": {
+    "ids": ["episode_h101", "episode_h102"],
+    "description": "Adversarial cases"
+  }
+}

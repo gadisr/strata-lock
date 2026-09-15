@@ -1,0 +1,4 @@
+{
+  "experiment_id": "exp_20260915_001",
+  "used_strata": ["holdout_A", "holdout_B"]
+}
