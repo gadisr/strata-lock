@@ -1,0 +1,8 @@
+{
+  "decision": "keep",
+  "justifying_strata": ["holdout_A", "post_hoc_slice"],
+  "metrics": {
+    "holdout_A_score": 0.70,
+    "post_hoc_slice_score": 0.95
+  }
+}

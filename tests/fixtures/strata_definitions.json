@@ -1,0 +1,15 @@
+{
+  "holdout_A": {
+    "ids": ["episode_001", "episode_002", "episode_003"],
+    "description": "First holdout stratum"
+  },
+  "holdout_B": {
+    "ids": ["episode_010", "episode_011"],
+    "globs": ["results/task_b_*.json"],
+    "description": "Second holdout stratum"
+  },
+  "holdout_C": {
+    "globs": ["results/edge_cases/*.json"],
+    "description": "Edge case holdout"
+  }
+}

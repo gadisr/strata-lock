@@ -1,0 +1,8 @@
+{
+  "decision": "keep",
+  "justifying_strata": ["holdout_A", "holdout_B"],
+  "metrics": {
+    "holdout_A_score": 0.85,
+    "holdout_B_score": 0.82
+  }
+}
