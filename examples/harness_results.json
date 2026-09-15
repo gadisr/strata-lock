@@ -1,0 +1,4 @@
+{
+  "experiment": "v3_vs_v2_comparison",
+  "used_strata": ["holdout_standard", "holdout_adversarial"]
+}

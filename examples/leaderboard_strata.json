@@ -1,0 +1,6 @@
+{
+  "official_holdout": {
+    "ids": ["task_001", "task_002", "task_003", "task_004", "task_005"],
+    "description": "Official leaderboard holdout set"
+  }
+}

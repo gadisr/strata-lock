@@ -1,0 +1,9 @@
+{
+  "agent_version": "v2.3",
+  "decision": "keep",
+  "justifying_strata": ["verified_django", "easy_tasks_only"],
+  "metrics": {
+    "verified_django_pass_rate": 0.82,
+    "easy_tasks_only_pass_rate": 0.95
+  }
+}
